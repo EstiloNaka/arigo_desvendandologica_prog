@@ -37,9 +37,10 @@ Lexica.art：
 |   Ação   | prompt pronto                                                                                                                                                                                                                                                                        |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Imagem da Capa  | Um fluxograma simples de símbolos de tecnologia que representa um ecossistema de parceiros para uso como plano de fundo do slide. Moderno. As cores da marca são #024da1 e #37b884. azuis e verdes. ultrahd, qualidade de cor Kodak, 8K.
-                                                                                                                                                                                        |
+|
 | Outras Imagens |Crie uma imagem de capa atraente para um blog intitulado 'Liberte o poder de como a IA está revolucionando todas as partes dos negócios'. A imagem deve transmitir a ideia da inteligência artificial (IA) como um catalisador para mudanças transformadoras em diferentes departamentos de negócios, como marketing, finanças, cadeia de abastecimento e RH. Use uma mistura de símbolos de tecnologia, elementos de negócios e um toque futurista para simbolizar inovação e progresso.
  |
+
 
 
 
