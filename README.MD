@@ -1,7 +1,15 @@
-# Projeto artigo técnico gerado por I.A.s
+<p align="center">
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+<p align="center">
+<a href="https://digitalinnovation.one/artigos/desvendando-a-logica-de-programacao-um-guia-para-iniciantes" title="View PDF now"> 📕 Clique aqui para ler o artigo</a>
+</p>
 
+-------
+
+# Desvendando a Lógica de Programação: Um Guia Completo para Iniciantes
+
+Projeto com o objetivo de gerar um artigo paara as pessoas que estão iniciando a carreira de desenvolvedor, como eu.
 
 
 ## 💻 Tecnologias utilizadas no projeto
