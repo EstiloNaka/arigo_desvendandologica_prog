@@ -2,7 +2,7 @@
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 
 <p align="center">
-<a href="https://digitalinnovation.one/artigos/desvendando-a-logica-de-programacao-um-guia-para-iniciantes" title="View PDF now"> 📕 Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/desvendando-a-logica-de-programacao-um-guia-para-iniciantes?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕 Clique aqui para ler o artigo</a>
 </p>
 
 -------
